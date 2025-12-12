@@ -24,7 +24,7 @@ yum install git -y
 
 Just to verify if system has git installed or not, please run below command in terminal:
 ```bash
-git — version
+git —-version
 ```
 
 This command will print the git version in the terminal.
